@@ -25,9 +25,19 @@ This is a Python script that resolves domain names to IP addresses using the `dn
 - Python 3.x
 - `dnspython` library
 
+- About Me
+I am Aiden Klassen, a Network Security and Engineering student passionate about networking, systems engineering, and automation. I enjoy applying theoretical knowledge through practical projects to build efficient and secure network solutions.
+
+
 ## Installation
 
 Install the required package:
 
 ```bash
+
 pip install dnspython
+
+aidenklassen10@gmail.com
+Linkedin: Aiden KLassen https://www.linkedin.com/in/aiden-klassen-332588331/
+
+aidenklassen10@gmail.com
